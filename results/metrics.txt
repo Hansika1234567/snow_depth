@@ -1,0 +1,6 @@
+Snow Depth Estimation using XGBoost
+Evaluation Method: 80/20 random train-test split
+
+MAE:  60.02
+RMSE: 83.87
+R2:   0.9711
