@@ -203,5 +203,5 @@ notebooks/snow_depth_xgboost.ipynb
 ---
 
 ## Author
+Hansika Jatoth
 
-Sanika Siva Naga Prasanya
